@@ -1,0 +1,37 @@
+{
+    "node": {
+        "ip": "192.168.1.4",
+        "timestamp": "2026-06-05 13:37:33",
+        "status": "ONLINE"
+    },
+    "real_data": {
+        "total_feromonas": 2,
+        "nodos_conteo": 2,
+        "nodos_activos": [
+            "LBH_NODE",
+            "LBH_NODE"
+        ],
+        "ultima_feromona": {
+            "id": 2,
+            "nodo": "NODO_INVERSOR_TEST",
+            "payload": "LBH://VALIDACION_DEMO",
+            "firma": "demo_publica",
+            "ts": 1780680641,
+            "fecha_legible": "2026-06-05 11:30:41"
+        }
+    },
+    "sandbox": {
+        "evento": "WAITING",
+        "health": "UNKNOWN",
+        "recovery_time": 0
+    },
+    "human_readable": {
+        "resumen": "El hormiguero ha registrado 2 feromonas desde 2 nodos activos.",
+        "ultima_emision": {
+            "quien": "NODO_INVERSOR_TEST",
+            "que": "LBH://VALIDACION_DEMO",
+            "cuando": "2026-06-05 11:30:41"
+        },
+        "estado_red": "activa"
+    }
+}
