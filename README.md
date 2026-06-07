@@ -27,3 +27,27 @@ AUDITOR_TEST_KEY_2026
 
 ---
 *Proyecto desarrollado por HormigasAIS - Infraestructura soberana para Edge Computing.*
+
+---
+
+## 🏆 Certificado de Completacion — Protocolo LBH
+
+Al completar el reto, sella tu solucion en [hormigasais.com](https://hormigasais.com) y recibe un certificado como este:
+
+
+
+![HormigasAIS Edge Node Certification](./cert-ejemplo-lbh.png)
+
+
+
+| Campo | Detalle |
+|---|---|
+| **Firma LBH** | `CLHQ-NVR5WWAS` unica e irrepetible |
+| **SHA-256** | Hash del activo sellado |
+| **HMAC** | Prueba criptografica de integridad |
+| **Nodo emisor** | A16-SanMiguel-SV |
+| **Verificacion** | Publica en [hormigasais.com](https://hormigasais.com) → 🔍 Verificar |
+
+> A diferencia de certificados tradicionales en PDF, este es **descentralizado y verificable sin intermediarios** — cualquier persona confirma su autenticidad sin pedirle permiso a nadie.
+
+**Desafio:** Sella tu fork del reto como activo digital y comparte tu firma `CLHQ-XXXXXXXX` en los comentarios del tutorial de Platzi.
